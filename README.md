@@ -6,6 +6,10 @@ Proof of concept to learn more about explicit and implicit Matplotlib APIs
 
 ![img/basic-example.png](img/basic-example.png)
 
+# Two charts
+
+![img/two-charts.png](img/two-charts.png)
+
 # Reference documentation
 
 > Matplotlib has two major application interfaces, or styles of using the library:
